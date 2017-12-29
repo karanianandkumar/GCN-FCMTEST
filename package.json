@@ -1,0 +1,17 @@
+{
+  "description": "NativeScript Application",
+  "license": "SEE LICENSE IN <your-license-filename>",
+  "readme": "NativeScript Application",
+  "repository": "<fill-your-repository-here>",
+  "nativescript": {
+    "id": "com.GlobalChristianNews.ios",
+    "tns-ios": {
+      "version": "3.4.0"
+    }
+  },
+  "dependencies": {
+    "nativescript-plugin-firebase": "^5.0.5",
+    "nativescript-theme-core": "~1.0.4",
+    "tns-core-modules": "~3.4.0"
+  }
+}
