@@ -7,34 +7,34 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>532964059598-clvujmd5gjokpm2nin7846q2fd0eabeu.apps.googleusercontent.com</string>
+	<string>1052836194035-l81fsjai1u40ocnqjcpnoebnnsltt03b.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.532964059598-clvujmd5gjokpm2nin7846q2fd0eabeu</string>
+	<string>com.googleusercontent.apps.1052836194035-l81fsjai1u40ocnqjcpnoebnnsltt03b</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDRygGSrc3_tGWvWBVrceJ1w3Ffc07O04Y</string>
+	<string>AIzaSyDuXPZxKamjttwP_hYpnX7MvDoZWhAVVtk</string>
 	<key>GCM_SENDER_ID</key>
-	<string>532964059598</string>
+	<string>1052836194035</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.GlobalChristianNews.ios</string>
+	<string>org.nativescript.firebasedemo</string>
 	<key>PROJECT_ID</key>
-	<string>gcn-news</string>
+	<string>n-plugin-test</string>
 	<key>STORAGE_BUCKET</key>
-	<string>gcn-news.appspot.com</string>
+	<string>n-plugin-test.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>IS_ANALYTICS_ENABLED</key>
-	<false></false>
+	<false/>
 	<key>IS_APPINVITE_ENABLED</key>
-	<false></false>
+	<false/>
 	<key>IS_GCM_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>IS_SIGNIN_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:532964059598:ios:fbadf75cf19962df</string>
+	<string>1:1052836194035:ios:443e3741d53b6bc3</string>
 	<key>DATABASE_URL</key>
-	<string>https://gcn-news.firebaseio.com</string>
+	<string>https://n-plugin-test.firebaseio.com</string>
 </dict>
 </plist>
